@@ -10,6 +10,10 @@ Resolution:
 Infill:
 15%
 
+Required Hardware:
+
+3 x M5 T-Nut
+3 x M5 12mm
 
 Notes:
 Additional print parameters:
